@@ -86,7 +86,5 @@ Comprehensive error handling
 
 Ready for Airtable import
 
-Note
-This Python implementation simulates Airtable automation logic. Output files are Airtable-ready for production use.
 
 
